@@ -4,7 +4,7 @@ import React from 'react'
 // props should never be changed by its child component. Read only! Never mutates props and States! (only with setStateName)
 const Search = ({searchTerm, setSearchTerm}) => {
     return (
-        <div>
+        <div className='search'>
             <div>
                 <img src="Vector.svg" alt="search" />
                 <input 

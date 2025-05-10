@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 // traditional Class Components
-// class ClassComponent extends React.Component {
+// class varClassComponent extends React.Component {
 //   render() {
 //     return <h2>Class Component</h2>
 //   }
